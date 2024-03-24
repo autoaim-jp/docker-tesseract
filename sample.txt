@@ -1,0 +1,17 @@
+マイクロサービスアーキテクチャ, docker, asocial, jsdoc, eslint, Node.js, docker-compose, git, GitHub Workflow, jest, vim, PostgreSQL, redis, xdevkit, GitHub Pages, Prometheus, Grafana, SSO, OIDC, ChatGPT, MeCab,
+すごいすごい
+
+ヤッホーブルーイング
+
+graphQL 123, 合計, 会計 言十, 
+
+
+GOGO@pqlrs
+dbqp
+
+xdevkit-roomに、ChatGPT-CodeReviewを導入してみる
+stagelistに沿ってコンテナ追加手前まで
+dockerでocrためす
+
+OK!
+
